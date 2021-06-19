@@ -1,0 +1,6 @@
+<?xml version="1.0"?><config>
+	<className>VisitorPattern.Customer</className><className>BridgePattern.Blue</className><className>BridgePattern.SmallPen</className><className>BuilderPattern.SubMealBuilderA</className><className>FactoryMethodPattern.AFactory</className>
+	
+
+
+</config>
